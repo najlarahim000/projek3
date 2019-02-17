@@ -15,7 +15,7 @@ public class soalan1 {
      
      int nombor1 = (int)(Math.random()* 20) + 1;
      int nombor2 = (int)(Math.random()* 20) + 1;
-     int kerja = (int)(Math.random()* 4) + 1;
+     int kerja = (int)(Math.random()* 6) + 1;
      String operasi = null;
      String ulas=null;
      
